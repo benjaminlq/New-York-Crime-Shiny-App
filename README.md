@@ -1,8 +1,8 @@
 # <center> New York Crime Shiny App for Data Explanatory Analysis </center>
 
-![](https://img.shields.io/badge/Status-Completed-red)
+![](https://img.shields.io/badge/Status-Completed-green)
 ![](https://img.shields.io/badge/Domain-Crime-blue)
-![](https://img.shields.io/badge/Language-R-green)
+![](https://img.shields.io/badge/Language-R-lightblue)
 ![](https://img.shields.io/badge/Platform-R--Shiny-purple)
 ![](https://img.shields.io/badge/Package-tidyverse-orange)
 ![](https://img.shields.io/badge/Package-shiny-orange)
